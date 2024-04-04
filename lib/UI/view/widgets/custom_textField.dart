@@ -102,6 +102,7 @@ class DictionaryTextField extends StatefulWidget {
     this.itemWidth,
     this.position = DropdownPosition.BELOW,
     this.focusNode,
+    this.textInputAction,
   }) : super(key: key);
 
   @override
