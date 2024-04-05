@@ -1,45 +1,54 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+## Let's recreate your Portfolio
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+Get started now by cloning :)
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+<!-- <img src="https://user-images.githubusercontent.com/43790152/171403666-468b63d9-52be-4ec6-9cdb-c08c0e9d18f3.png"> -->
+<img src="https://github.com/parthunagar/portfolio/blob/main/assets/work/banner1.png">
 
----
+<img src="https://github.com/parthunagar/portfolio/blob/main/assets/work/banner2.png">
 
-## Edit a file
+<br>
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+<div align="center">
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+<!-- [![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/m-hamzashakeel/DevFolio/fork) -->
+[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/parthunagar/portfolio/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
----
+</div>
 
-## Create a file
+## 🧑‍💻 Devfolio
+Is a multi-platform portfolio for developers available for mobile, windows and web. Includes the following sections:
+- Home
+- About
+- Services
+- Portfolio
+- Contact
 
-Next, you’ll add a new file to this repository.
+## 🔗 Useful links
 
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
+<!-- 🌐 Web App: https://mhmzdev.github.io/devfolio -->
+🌐 Web App: 
 
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
+<!-- 📱 Android App: https://play.google.com/store/apps/details?id=com.hmz.folio -->
 
----
+<!-- 📙 Article: https://mhamzadev.medium.com/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f -->
 
-## Clone a repository
 
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
+## 🔑 License
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
+## 🧑 Author
 
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+#### Parth Unagar
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Unagar-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/parth-unagar-154a88166/)
+
+You can also follow my GitHub Profile to stay updated about my latest projects:
+
+[![GitHub Follow](https://img.shields.io/badge/Connect-Unagar-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/parthunagar)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+Copyright (c) 2024 Parth Unagar
