@@ -2,7 +2,7 @@
 
 Get started now by cloning :)
 
-<img src="https://github.com/parthunagar/Suggestion_textfield_project/blob/main/assets/pkg_ui_ss1.png"><img src="https://github.com/parthunagar/Suggestion_textfield_project/blob/main/assets/pkg_ui_ss3.png"><img src="https://github.com/parthunagar/Suggestion_textfield_project/blob/main/assets/pkg_ui_ss2.png">
+<img src="https://github.com/parthunagar/Suggestion_textfield_project/blob/main/assets/pkg_ui_ss3.png"><img src="https://github.com/parthunagar/Suggestion_textfield_project/blob/main/assets/pkg_ui_ss2.png"><img src="https://github.com/parthunagar/Suggestion_textfield_project/blob/main/assets/pkg_ui_ss1.png">
 
 <img src="https://github.com/parthunagar/portfolio/blob/main/assets/work/banner2.png">
 
